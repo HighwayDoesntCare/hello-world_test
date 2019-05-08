@@ -1,4 +1,3 @@
 # hello-world_test
-just a beginning
+just a 
 # WTF
-# OMG
